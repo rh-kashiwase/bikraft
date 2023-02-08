@@ -19,6 +19,10 @@
   -webkit-overflow-scrolling: touch;
 }
 
+#bicicleta .bicicletas-listas ul {
+  padding: 0px 0px 20px 0px;
+}
+
 .bicicletas-listas li {
   flex: 1;
   min-width: 280px;
